@@ -1,0 +1,8 @@
+Keygen Reflector 1.1.0 - Extract serials from keygens using WinAPI
+
+This is a tool i made.
+it is coded in C# and uses WinAPI functions to extract a high number of serial keys
+from any keygen.
+Tell the program which window to use,
+where the generate button is and how many keys to generate and within seconds,
+you have 1.000 keys.
